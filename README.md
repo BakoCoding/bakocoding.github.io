@@ -1,3 +1,3 @@
-# web-platform-q6rc13
+# my site
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-q6rc13)
+brother go to https://bakocoding.github.io/!
