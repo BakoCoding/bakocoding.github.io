@@ -1,3 +1,5 @@
-# web-platform-q6rc13
+# my website
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-q6rc13)
+cool, i have a site.
+
+MADE IN GITHUB.DEV, NOT STACKBLITZ.
